@@ -1,4 +1,4 @@
-# TensorFlow Lite Object Detection Android
+# TensorFlow Lite Object Detection Android - Aditya Ranjan
 ### Overview
 This is a camera app that continuously detects the objects (bounding boxes and classes) in the frames seen by your device's back camera, using a MobileNet SSDV2 model trained on the custom dataset of Traffic lights, Traffic signs and Ambulance. These instructions walk you through building and running this repository on an Android device.
 
